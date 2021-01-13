@@ -11,7 +11,7 @@
 Me chamo Janerson Douglas, Analista de Sistemas e apaixonado por Desenvolvimento.  
 Formado em Análise e Desenvolvimento de Sistemas, com especialidade em desenvolvimento na linguagem Java, juntamente com vários frameworks tais como Hibernate, Ireport, Jaspersoft, JavaFX, conhecimento básico em JSF, JSP e desenvolvimento Android, facilidade em aprender algo novo com total dedicação ao que me é confiado
 
-- :office_worker: Analista de Sistemas PL na **[Cast Group](https://www.castgroup.com.br/pt/)**
+- :office_worker: Desenvolvedor Java SR. na **[INFORTECH](https://www.infortechms.com.br/)**
 - :heart: Techs: Angular, Java, JSF, Springboot, Javascript, Outsystems, Asp Classic, TypeScript e mais!
 
 
